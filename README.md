@@ -6,7 +6,7 @@ Atualmente trabalho com Infraestrutura (Switchs, Firewalls e Servidores).
 - Estatística e Probabilidade
 - Python
 - Estruturas de Dados e Algoritmos
-- Kubernetes, Linux
+- Linux e Kubernetes
 - Docker
 - C++
 
