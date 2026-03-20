@@ -1,7 +1,8 @@
-# Experiência
-Atualmente trabalho com Infraestrutura (Switchs, Firewalls e Servidores). 
+# 💼 Experiência
+Atualmente trabalho com Infraestrutura (Switchs, Firewalls e Servidores).
 
-# O que estou estudandno atualmente...
+# ⚡ O que estou estudando atualmente...
+- Dados/ML
 - Estatística e Probabilidade
 - Python
 - Estruturas de Dados e Algoritmos
@@ -9,3 +10,4 @@ Atualmente trabalho com Infraestrutura (Switchs, Firewalls e Servidores).
 - Docker
 - C++
 
+📬 Contato: antoniodinizjorgelimasaraiva@gmail.com
