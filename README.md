@@ -2,12 +2,12 @@
 Atualmente trabalho com Infraestrutura (Switchs, Firewalls e Servidores).
 
 # ⚡ O que estou estudando atualmente...
+- Linux e Kubernetes
+- Docker
+- C++
 - Dados/ML
 - Estatística e Probabilidade
 - Python
 - Estruturas de Dados e Algoritmos
-- Linux e Kubernetes
-- Docker
-- C++
 
 📬 Contato: antoniodinizjorgelimasaraiva@gmail.com
