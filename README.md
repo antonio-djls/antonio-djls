@@ -3,6 +3,7 @@ Atualmente trabalho com Infraestrutura (Switchs, Firewalls e Servidores).
 
 # ⚡ O que estou estudando atualmente...
 - Linux e Kubernetes
+- Redes de Computadores
 - Docker
 - C++
 - Dados/ML
